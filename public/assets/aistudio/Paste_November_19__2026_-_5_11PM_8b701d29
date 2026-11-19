@@ -1,0 +1,1389 @@
+# CREW LANDSCAPES — COMPLETE PREMIUM WEBSITE REDESIGN
+
+## 01. YOUR ROLE
+
+Act as an award-winning creative director, senior UI/UX designer, visual storyteller, motion designer, conversion-rate optimization expert, SEO specialist, and senior React/TypeScript developer.
+
+Your mission is to design and build an exceptional, premium, highly animated website for **Crew Landscapes**.
+
+Existing website:
+https://crewlandscapes.com/
+
+Instagram:
+https://www.instagram.com/crew_landscapes/
+
+This is a professional website redesign DEMO created by InoDo.
+
+I have attached a screenshot of the original Crew Landscapes website. Study the screenshot carefully and use it as the visual reference for the brand identity.
+
+The final website should look like a bespoke digital experience developed by a top-tier creative agency.
+
+Do not create a generic landscaping website.
+
+Build a visually distinctive experience combining:
+- Bold modern typography.
+- Premium landscape architecture photography.
+- Cinematic animations.
+- Asymmetrical editorial layouts.
+- Sophisticated navigation.
+- Immersive project galleries.
+- Beautifully structured service presentations.
+- Conversion-focused user experience.
+- Exceptional mobile responsiveness.
+
+IMPORTANT WEBSITE STRUCTURE:
+
+There must be ONLY ONE fully developed Crew Landscapes business page: the homepage.
+
+All secondary navigation routes must contain ONLY a single-screen animated promotional experience inviting the business owner to hire InoDo.
+
+Do not build additional full Crew Landscapes business pages.
+
+---
+
+# 02. BRAND IDENTITY AND CREATIVE DIRECTION
+
+## Original brand identity
+
+The screenshot demonstrates the original Crew Landscapes identity:
+
+- Deep teal color.
+- Pale blue-gray backgrounds.
+- White backgrounds.
+- Dark charcoal typography.
+- Teal buttons and headings.
+- Shield-style CREW logo.
+- Natural landscaping photography.
+
+Preserve these recognizable characteristics.
+
+Do not replace the original branding with orange, neon green, or an unrelated dark forest-green palette.
+
+The redesign should look like a much more sophisticated evolution of the original website.
+
+## Creative direction
+
+Combine:
+
+1. Modern architectural editorial design.
+2. Premium landscape construction branding.
+3. Contemporary minimalism.
+4. Bold typography.
+5. Cinematic outdoor photography.
+6. Sophisticated motion design.
+7. Asymmetric magazine-style layouts.
+
+The visual personality should feel:
+
+Confident, architectural, professional, modern, premium, natural, bold, and distinctive.
+
+Avoid:
+- Generic AI website templates.
+- Repetitive three-card layouts.
+- Excessive rounded cards.
+- Cheap gradients.
+- Random floating circles.
+- Excessive glassmorphism.
+- Cartoon illustrations.
+- Generic landscape icons.
+- Repetitive content.
+- Excessive decorative effects.
+
+Use large typography, strong spacing, overlapping photographs, architectural grids, elegant lines, and creative compositions.
+
+---
+
+# 03. COMPLETE DESIGN SYSTEM
+
+## Color palette
+
+Recreate and refine the screenshot's original color identity.
+
+PRIMARY TEAL:
+#005B63
+
+DEEP TEAL:
+#00464D
+
+SECONDARY TEAL:
+#08717A
+
+PALE BLUE-GRAY:
+#B6C0C2
+
+LIGHT MIST:
+#EDF1F1
+
+PURE WHITE:
+#FFFFFF
+
+OFF WHITE:
+#F7F8F7
+
+DARK CHARCOAL:
+#202526
+
+NEAR BLACK:
+#151A1B
+
+MUTED GRAY:
+#727D7F
+
+### Color distribution
+
+- White and Off White: Main website backgrounds.
+- Primary Teal: Main brand accent, headings, and CTAs.
+- Deep Teal: Dark sections and hover states.
+- Pale Blue-Gray: Feature sections and background transitions.
+- Charcoal: Strong contrasting sections.
+- Muted Gray: Supporting text.
+
+Use teal consistently as the main brand color.
+
+Do not introduce unrelated bright accent colors.
+
+Maintain accessible color contrast.
+
+## Typography system — VERY IMPORTANT
+
+I want bold, modern, professional typography.
+
+Use this combination:
+
+**PRIMARY DISPLAY FONT: SORA**
+
+Weights:
+- 600
+- 700
+- 800
+
+**BODY FONT: DM SANS**
+
+Weights:
+- 400
+- 500
+- 600
+- 700
+
+**EDITORIAL EMPHASIS: SORA BOLD**
+
+Use large, confident Sora headings with DM Sans supporting text.
+
+Typography direction:
+
+- Oversized bold headings.
+- Strong visual hierarchy.
+- Large uppercase section labels.
+- Powerful headline compositions.
+- Carefully controlled line breaks.
+- Clean body text.
+- Consistent letter spacing.
+- Beautiful typography scaling.
+- Bold numerical indexes.
+- Strong contrast between headings and paragraphs.
+
+Use CSS clamp() for responsive typography.
+
+Do not use thin, delicate typography as the primary heading style.
+
+The website should immediately feel more modern and visually confident.
+
+## Layout system
+
+- Maximum width: 1440px.
+- Main content width: 90%.
+- Desktop grid: 12 columns.
+- Desktop section spacing: 110–150px.
+- Mobile section spacing: 65–85px.
+- Consistent spacing scale.
+- Asymmetric image compositions.
+- Strong visual hierarchy.
+
+Do not use the same layout for every section.
+
+---
+
+# 04. NAVIGATION DESIGN
+
+Create a premium modern navigation bar.
+
+Use the original CREW shield logo whenever available.
+
+Navigation items:
+
+- HOME
+- ABOUT
+- SERVICES
+- PROJECTS
+- CAREERS
+- CONTACT
+
+Right-side CTA:
+
+"LET'S DISCUSS YOUR PROJECT"
+
+### Desktop design
+
+- Logo on the left.
+- Navigation links arranged horizontally.
+- Teal active navigation indicator.
+- White or translucent background.
+- Subtle backdrop blur.
+- Fine bottom border.
+- Strong typography.
+- Elegant spacing.
+
+The navigation should initially blend beautifully with the hero.
+
+On scroll, transition into a solid white navigation with a subtle shadow or border.
+
+### Hover interactions
+
+- Animated teal underline.
+- Smooth text transitions.
+- Subtle movement.
+- Elegant active indicator.
+- Smooth background changes.
+
+### Mobile navigation
+
+Create a beautifully animated mobile menu.
+
+Include:
+- CREW logo.
+- Animated hamburger menu.
+- Full-screen overlay navigation.
+- Smooth opening and closing.
+- Large bold navigation typography.
+- Teal accent highlights.
+
+Ensure every navigation item functions.
+
+---
+
+# 05. HOMEPAGE — THE COMPLETE CREW LANDSCAPES WEBSITE
+
+The homepage is the ONLY fully developed Crew Landscapes business page.
+
+Place all genuine business information on this page.
+
+The homepage must solve three existing website problems:
+
+1. The homepage introduction lacks enough detail.
+2. The About section is too text-focused.
+3. The service information lacks sufficient visual and descriptive depth.
+
+Address all three with better content architecture and visual storytelling.
+
+Build the following sections in this exact order.
+
+## SECTION 01 — CINEMATIC HERO
+
+Create an immersive full-screen hero.
+
+### Image direction
+
+Use premium landscape architecture photography:
+
+- Beautiful modern patios.
+- Natural stone.
+- Professionally landscaped gardens.
+- Outdoor living environments.
+- Thoughtfully designed planting.
+- Architectural walkways.
+- Outdoor lighting.
+
+Use genuine Crew Landscapes project photography whenever available.
+
+### Hero content
+
+Small eyebrow:
+
+LANDSCAPE DESIGN · CONSTRUCTION · OUTDOOR LIVING
+
+Main headline:
+
+"OUTDOOR SPACES.
+BUILT WITH PURPOSE."
+
+Use oversized Sora ExtraBold typography.
+
+Supporting text:
+
+"From thoughtful landscape design to carefully executed construction, Crew Landscapes creates outdoor environments designed around the way you live."
+
+Primary CTA:
+
+EXPLORE OUR PROJECTS
+
+Secondary CTA:
+
+START YOUR PROJECT
+
+Add:
+- Full-width high-quality photography.
+- Elegant dark image overlay.
+- Small bottom-left scroll indicator.
+- CREW brand mark.
+- Subtle editorial label: "LANDSCAPE DESIGN & BUILD".
+
+### Hero animations
+
+Create a cinematic entrance:
+
+1. Background image reveals through an animated mask.
+2. Eyebrow fades in.
+3. Heading appears word by word.
+4. Supporting paragraph fades upward.
+5. CTAs appear with staggered timing.
+6. Scroll indicator begins animating.
+7. Subtle image parallax.
+
+The first viewport must immediately communicate a premium landscaping company.
+
+Avoid excessive motion.
+
+---
+
+## SECTION 02 — STRONGER BRAND INTRODUCTION
+
+Background: White.
+
+This section directly addresses the weak homepage introduction.
+
+Small eyebrow:
+
+LANDSCAPE DESIGN & CONSTRUCTION
+
+Large heading:
+
+"FROM THE FIRST IDEA
+TO THE FINISHED LANDSCAPE."
+
+Supporting content:
+
+"Crew Landscapes designs and builds thoughtfully planned outdoor spaces throughout Chicago. From patios and gardens to complete landscape renovations, we bring the design and construction process together to create outdoor environments that reflect each client's vision, needs, and long-term plans."
+
+Add a second short paragraph:
+
+"Since 2014, our focus has been on quality work, attention to detail, and a collaborative process that carries each project from its initial concept through construction."
+
+These statements reflect the existing company's published positioning and history.
+
+### Layout
+
+Create an asymmetric editorial composition:
+
+Left:
+Large heading and supporting text.
+
+Right:
+A large architectural landscape image.
+
+Below:
+Two overlapping supporting project images.
+
+Add a small teal decorative line and image captions.
+
+Do not create a simple centered text section.
+
+Animations:
+- Staggered typography reveal.
+- Image clipping transitions.
+- Subtle parallax.
+- Scroll-triggered entrances.
+
+---
+
+## SECTION 03 — ABOUT CREW LANDSCAPES / VISUAL BRAND STORY
+
+Background: Pale Blue-Gray.
+
+This section must solve the existing About page's text-heavy presentation.
+
+Do not simply copy long paragraphs from the original About page.
+
+Transform the company story into a visually rich editorial experience.
+
+Small eyebrow:
+
+GET TO KNOW CREW
+
+Heading:
+
+"DESIGN. CRAFT.
+BUILT TOGETHER."
+
+Use large, bold Sora typography.
+
+Create a split layout containing:
+
+- Large real project photograph.
+- Secondary detail photograph.
+- Short, well-structured content blocks.
+- Bold numerical labels.
+- Animated dividers.
+
+Include these brand-story themes:
+
+### DESIGN-BUILD APPROACH
+
+Crew Landscapes provides consultation, design, and construction from concept to completion.
+
+### COLLABORATIVE PROCESS
+
+The company works with clients, designers, and craftsmen to develop outdoor environments around each project's requirements.
+
+### MATERIALS & CRAFTSMANSHIP
+
+The existing business highlights its use of quality plant material and natural and manufactured stone.
+
+### BUILT FOR LONG-TERM USE
+
+Focus on durability, functionality, and lasting visual appeal.
+
+Display the company's established year:
+
+"EST. 2014"
+
+Use a visual timeline or editorial milestone layout rather than a conventional company-history paragraph.
+
+Do not invent employee numbers, awards, certifications, or project statistics.
+
+Add a CTA:
+
+GET TO KNOW OUR APPROACH
+
+---
+
+## SECTION 04 — SERVICES SHOWCASE
+
+Background: Deep Teal.
+
+Typography: White.
+
+Accent: Pale Blue-Gray.
+
+Small eyebrow:
+
+WHAT WE DO
+
+Large heading:
+
+"SPACES THAT WORK.
+LANDSCAPES THAT LAST."
+
+The services must have significantly more depth than a basic image and title.
+
+Use the actual service categories and descriptions from the existing Crew Landscapes website.
+
+### SERVICE 01 — BRICK PAVING
+
+Description:
+
+"Beautifully planned paver installations for patios, walkways, and driveways, with attention to foundation preparation, proper drainage, and a clean finished appearance."
+
+Visual direction:
+Interlocking patios, stone walkways, paver driveways.
+
+### SERVICE 02 — LANDSCAPE INSTALLATION
+
+Description:
+
+"Thoughtfully planned landscape installations that bring together planting, lighting, fire pits, turf, and other outdoor features."
+
+Visual direction:
+Planting beds, garden installations, outdoor lighting, fire pits.
+
+### SERVICE 03 — COMMERCIAL LANDSCAPE MAINTENANCE
+
+Description:
+
+"Consistent property maintenance, weekly services, and seasonal enhancements tailored to commercial and HOA properties."
+
+Visual direction:
+Professional commercial landscaping and maintained outdoor spaces.
+
+### SERVICE 04 — SNOW MANAGEMENT
+
+Description:
+
+"Seasonal snow and ice management for commercial and HOA properties."
+
+Visual direction:
+Professional winter property maintenance.
+
+Also create a complementary category highlighting the company's broader work:
+
+### OUTDOOR LIVING & LANDSCAPE RENOVATIONS
+
+Use the published homepage positioning to present patios, gardens, outdoor living spaces, planting, lighting, and complete landscape renovations.
+
+Do not invent additional specialist services.
+
+### Visual composition
+
+Present services as large editorial rows or full-width alternating image sections.
+
+Each service needs:
+- Large service title.
+- Short meaningful description.
+- Large relevant image.
+- Small numerical index.
+- Animated arrow.
+- CTA.
+
+Do not use repetitive small service cards.
+
+### Interactions
+
+On hover:
+- Image smoothly reveals.
+- Title moves slightly.
+- Arrow animates.
+- Image scales subtly.
+- Teal and white transitions remain smooth.
+
+On mobile:
+Show imagery directly.
+
+Add CTA:
+
+DISCUSS YOUR LANDSCAPE PROJECT
+
+Important: This homepage should provide substantial service information without creating additional full Crew business pages.
+
+---
+
+## SECTION 05 — PROJECT GALLERY
+
+Background: White.
+
+This section should be one of the strongest visual elements of the website.
+
+Small eyebrow:
+
+SELECTED WORK
+
+Large headline:
+
+"THE WORK SPEAKS
+FOR ITSELF."
+
+Use genuine photographs from the existing Crew Landscapes Projects page.
+
+The current site includes project photography and images grouped around design and construction stages.
+
+Preserve genuine photographs wherever possible.
+
+### Gallery categories
+
+Use visually appropriate image categories, such as:
+
+- Completed Projects.
+- During Construction.
+- Design.
+
+Only assign categories when the photograph genuinely fits.
+
+### Gallery layout
+
+Create a premium architectural portfolio:
+
+- One oversized featured image.
+- Two smaller images.
+- One wide image.
+- An asymmetric editorial grid.
+- Large image captions.
+- Subtle teal details.
+
+Avoid conventional equal-sized card layouts.
+
+### Interactions
+
+- Image reveal masks.
+- Smooth hover zoom.
+- Animated captions.
+- Elegant lightbox.
+- Previous and next controls.
+- Accessible close button.
+
+### Lead-generation integration
+
+The gallery must encourage visitors to inquire about similar projects.
+
+Use CTAs such as:
+
+"PLANNING A NEW PATIO?"
+
+"LET'S DISCUSS YOUR LANDSCAPE."
+
+"START A SIMILAR PROJECT."
+
+Every project CTA should lead to the homepage inquiry form.
+
+When a visitor clicks a project CTA, automatically preselect the relevant service category where appropriate.
+
+Do not invent project names, client identities, locations, or results.
+
+Do not present stock photography as genuine Crew project work.
+
+---
+
+## SECTION 06 — TESTIMONIALS
+
+Background: Pale Blue-Gray.
+
+Use the original testimonial from the Crew Landscapes website if you can retrieve the complete authentic content.
+
+Design it as a premium editorial testimonial section.
+
+Small eyebrow:
+
+CLIENT EXPERIENCE
+
+Heading:
+
+"BUILT ON TRUST.
+REMEMBERED FOR THE WORK."
+
+Display a genuine excerpt from the existing Colleen testimonial, for example:
+
+"From the very beginning, the entire team was professional, knowledgeable, and incredibly easy to work with."
+
+Attribution:
+
+— COLLEEN
+
+Use oversized quotation marks, clean typography, and beautiful whitespace.
+
+You may use a simple editorial slider if the original testimonial content supports it.
+
+Do not invent additional testimonials, star ratings, or customer identities.
+
+---
+
+## SECTION 07 — OUR PROCESS
+
+Background: White.
+
+Small eyebrow:
+
+HOW WE WORK
+
+Heading:
+
+"ONE CONNECTED PROCESS.
+FROM CONCEPT TO COMPLETION."
+
+Create an elegant visual four-stage process.
+
+01 — CONSULTATION
+
+Understand the client's needs, priorities, and vision.
+
+02 — DESIGN
+
+Develop a thoughtful landscape concept.
+
+03 — CONSTRUCTION
+
+Bring the approved design into reality through coordinated construction.
+
+04 — COMPLETION
+
+Deliver a cohesive outdoor environment with attention to quality and detail.
+
+These steps reflect the published design-build positioning. Do not invent specific timelines or guarantees.
+
+### Design
+
+Use:
+- Large numerical labels.
+- Horizontal connecting lines.
+- Project photography.
+- Bold headings.
+- Animated progress indicators.
+
+Avoid generic icon cards.
+
+---
+
+## SECTION 08 — CINEMATIC VISUAL STATEMENT
+
+Create an immersive full-width outdoor landscape photograph.
+
+Large heading:
+
+"YOUR OUTDOORS.
+YOUR VISION.
+OUR CREW."
+
+Use massive bold typography.
+
+White text with selected teal/blue-gray emphasis.
+
+Dark overlay.
+
+Animations:
+- Image reveal.
+- Subtle parallax.
+- Text stagger.
+- Background scale transition.
+
+This section must create a powerful emotional impression.
+
+---
+
+## SECTION 09 — CONVERSION CTA
+
+Background: Deep Teal.
+
+Text: White.
+
+Small eyebrow:
+
+LET'S GET STARTED
+
+Large heading:
+
+"READY TO TRANSFORM
+YOUR OUTDOOR SPACE?"
+
+Supporting text:
+
+"Tell us what you have in mind. Let's start planning your next landscape project."
+
+Primary CTA:
+
+START YOUR PROJECT
+
+Secondary CTA:
+
+CALL CREW LANDSCAPES
+
+Use a strong, visually dominant button.
+
+Add an animated arrow and subtle decorative divider.
+
+---
+
+## SECTION 10 — CONTACT FORM
+
+Background: White.
+
+Create a sophisticated two-column contact section.
+
+Left:
+
+Small eyebrow:
+
+GET IN TOUCH
+
+Heading:
+
+"LET'S BUILD
+SOMETHING OUTDOORS."
+
+Supporting text:
+
+"Have a landscape project in mind? Connect with Crew Landscapes to discuss your vision."
+
+Display verified contact information:
+
+Phone:
+773-658-6988
+
+Email:
+info@crewlandscapes.com
+
+Location / service context:
+Chicago, Illinois.
+
+Use clickable telephone and email links.
+
+Right:
+
+Create a clean, premium project inquiry form.
+
+Fields:
+
+1. Full Name — required.
+2. Email Address — required.
+3. Phone Number — optional.
+4. Service Interested In — dropdown.
+5. Project Details — optional.
+
+Service dropdown:
+- Brick Paving.
+- Landscape Installation.
+- Commercial Landscape Maintenance.
+- Snow Management.
+- Outdoor Living.
+- Complete Landscape Renovation.
+- Other.
+
+Do not ask for excessive information upfront.
+
+Do not require:
+- Detailed street address.
+- Specific availability dates.
+- Multiple project selections.
+- Measurements.
+- Lengthy descriptions.
+
+Make the form quick to complete.
+
+Button:
+
+SEND PROJECT INQUIRY
+
+Implement:
+- Proper validation.
+- Clear error states.
+- Accessible labels.
+- Loading state.
+- Success confirmation only following real successful submission.
+
+If there is no backend connected, clearly identify the integration point and provide a demo submission experience without pretending an inquiry was actually delivered.
+
+---
+
+## SECTION 11 — FOOTER
+
+Background: Charcoal.
+
+Typography: White.
+
+Accent: Deep Teal / Pale Blue-Gray.
+
+Include:
+- Original CREW logo.
+- Short brand statement.
+- Home navigation.
+- Services overview.
+- Social media.
+- Phone.
+- Email.
+- Chicago service context.
+- Copyright information.
+
+Large closing statement:
+
+"GOOD DESIGN.
+GREAT CRAFT.
+OUTDOOR LIVING."
+
+Add an animated divider and Back to Top interaction.
+
+---
+
+# 06. SECONDARY PAGES — INODO PROMOTIONAL SCREENS
+
+THIS REQUIREMENT IS STRICT.
+
+There must be only ONE complete Crew Landscapes business page: the homepage.
+
+All secondary navigation routes must be single-screen promotional experiences for InoDo.
+
+Do not build full business pages for Crew Landscapes.
+
+## Routes
+
+/about-us
+
+/services
+
+/projects
+
+/careers
+
+/contact
+
+## EXACT CONTENT ON EVERY SECONDARY ROUTE
+
+Small eyebrow:
+
+"A WEBSITE CONCEPT BY INODO"
+
+Main heading:
+
+"LIKE WHAT YOU SEE?"
+
+Supporting text:
+
+"Let's build something extraordinary for your business."
+
+Primary CTA:
+
+"HIRE INODO TO BUILD THIS"
+
+Link:
+
+https://inodo.net
+
+Secondary CTA:
+
+"BACK TO HOMEPAGE"
+
+Link:
+
+/
+
+Small signature:
+
+"Website concept designed by InoDo."
+
+### Visual direction
+
+Each page must occupy the entire viewport.
+
+Use:
+- Cinematic outdoor photography.
+- Dark charcoal overlay.
+- Bold Sora ExtraBold typography.
+- Clean DM Sans supporting text.
+- Deep teal accents.
+- Pale blue-gray decorative lines.
+- Sophisticated CTA buttons.
+- Animated image masks.
+- Smooth text reveals.
+- Subtle parallax.
+
+Each route should have a different composition while preserving exactly the same promotional text and CTA buttons.
+
+Examples:
+
+/about-us:
+Centered oversized typography.
+
+/services:
+Left-aligned bold typography and cinematic image.
+
+/projects:
+Asymmetric composition over a dramatic landscape.
+
+/careers:
+Creative centered design with layered photography.
+
+/contact:
+Centered promotional message with a prominent teal CTA.
+
+### ABSOLUTE RESTRICTIONS
+
+Do not include:
+
+- Crew business descriptions.
+- Additional service content.
+- About sections.
+- Project galleries.
+- Testimonials.
+- Contact forms.
+- Company history.
+- Business contact information.
+- Extra promotional paragraphs.
+- Multiple content sections.
+- Content below the promotional screen.
+
+Every secondary route must show ONLY the InoDo promotional screen.
+
+Do not misinterpret this instruction.
+
+---
+
+# 07. ADVANCED MOTION DESIGN
+
+The website should feel significantly more animated than a standard landscaping business website.
+
+Use Framer Motion as the primary animation library.
+
+Use GSAP only when genuinely useful for advanced motion.
+
+Implement:
+
+1. Cinematic page entrance.
+2. Staggered heading animations.
+3. Word-by-word text reveals.
+4. Scroll-triggered section entrances.
+5. Image clipping and mask reveals.
+6. Smooth parallax.
+7. Animated navigation indicators.
+8. Premium button transitions.
+9. Image hover zoom.
+10. Animated section dividers.
+11. Smooth gallery lightbox.
+12. Interactive service image previews.
+13. Smooth route transitions.
+14. Creative scroll indicators.
+15. Subtle floating image compositions.
+
+### Advanced creative interactions
+
+Include selected effects:
+
+- Image-following preview on desktop service rows.
+- Animated project image transitions.
+- Magnetic-feeling CTA hover effect.
+- Large typography reveals.
+- Subtle photographic depth.
+- Creative scroll-linked motion.
+- Animated teal decorative lines.
+
+Do not overload the experience.
+
+Animations must be purposeful, consistent, and smooth.
+
+### Animation timing
+
+Micro-interactions: 200–350ms.
+
+Text reveals: 600–900ms.
+
+Image reveals: 800–1200ms.
+
+Section transitions: 500–800ms.
+
+Prefer transform and opacity.
+
+Avoid unnecessary continuous animations.
+
+Respect prefers-reduced-motion.
+
+Reduce complex effects on mobile.
+
+---
+
+# 08. SEO OPTIMIZATION
+
+Optimize the homepage for relevant landscaping and design-build search intent.
+
+Suggested title:
+
+Crew Landscapes | Landscape Design & Construction in Chicago
+
+Suggested meta description:
+
+Crew Landscapes designs and builds outdoor spaces throughout Chicago, including patios, brick paving, landscape installation, planting, lighting, and outdoor living environments.
+
+Keyword themes:
+
+- Crew Landscapes.
+- Landscape design Chicago.
+- Landscaping Chicago.
+- Landscape construction Chicago.
+- Brick paving.
+- Paver patios.
+- Landscape installation.
+- Outdoor living spaces.
+- Landscape lighting.
+- Commercial landscape maintenance.
+- Snow management Chicago.
+
+Use keywords naturally.
+
+Implement:
+- Semantic HTML5.
+- Proper H1/H2/H3 hierarchy.
+- Unique meta titles.
+- Meta descriptions.
+- Open Graph metadata.
+- Twitter metadata.
+- Descriptive image alt text.
+- Canonical URLs.
+- XML sitemap.
+- robots.txt.
+- Clean URLs.
+- Internal linking.
+- LocalBusiness structured data using verified information only.
+
+Do not invent a business address, service area, operating hours, or geographic coordinates.
+
+---
+
+# 09. PERFORMANCE OPTIMIZATION
+
+Implement:
+
+- WebP/AVIF image formats where available.
+- Responsive image sizing.
+- Lazy loading below-the-fold images.
+- Priority loading for the hero image.
+- Optimized font loading.
+- Code splitting.
+- Lazy loading of secondary routes.
+- Proper image dimensions.
+- Minimal unnecessary JavaScript.
+- Efficient animations.
+- Reduced re-renders.
+- Cumulative layout shift prevention.
+
+Target excellent Core Web Vitals.
+
+Do not sacrifice performance for visual effects.
+
+---
+
+# 10. RESPONSIVE DESIGN
+
+Optimize for:
+
+- 360px mobile.
+- 390px mobile.
+- 430px mobile.
+- 768px tablet.
+- 1024px laptop.
+- 1440px desktop.
+- 1920px large desktop.
+
+Mobile requirements:
+- Responsive navigation.
+- Well-cropped hero image.
+- Powerful but readable typography.
+- Proper image scaling.
+- No horizontal overflow.
+- Mobile-specific gallery layout.
+- Easy-to-use inquiry form.
+- Appropriate touch targets.
+- No hover-dependent content.
+- Reduced animation complexity.
+
+Do not simply shrink desktop elements.
+
+Make mobile feel intentionally art-directed.
+
+---
+
+# 11. ACCESSIBILITY
+
+Follow WCAG 2.2 AA principles where practical.
+
+Implement:
+- Keyboard navigation.
+- Visible focus states.
+- Accessible navigation.
+- Proper form labels.
+- Sufficient color contrast.
+- Semantic HTML.
+- Descriptive alt text.
+- Reduced-motion support.
+- Appropriate ARIA labels.
+
+---
+
+# 12. TECHNICAL IMPLEMENTATION
+
+Build a complete working React application.
+
+Preferred stack:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Framer Motion.
+- React Router.
+- Lucide React.
+
+Create reusable components:
+
+- Navbar.
+- MobileMenu.
+- HeroSection.
+- IntroductionSection.
+- AboutStorySection.
+- ServiceSection.
+- ServiceRow.
+- ProjectGallery.
+- ProjectLightbox.
+- TestimonialSection.
+- ProcessSection.
+- VisualStatement.
+- CTASection.
+- ContactForm.
+- Footer.
+- InodoPromotionalPage.
+
+Create a reusable InodoPromotionalPage component that accepts a background image and layout variant.
+
+Use it on all secondary routes to guarantee consistent messaging.
+
+Keep the code organized and maintainable.
+
+Do not install unnecessary dependencies.
+
+Ensure:
+- All routes work.
+- All CTA buttons work.
+- All images load.
+- No dead links.
+- No console errors.
+- No broken navigation.
+- No unnecessary duplicate components.
+
+---
+
+# 13. BUSINESS INFORMATION AND ASSET ACCURACY
+
+Use the existing Crew Landscapes website as the source of truth for business details.
+
+Existing verified details include:
+
+Business:
+Crew Landscapes
+
+Established:
+2014
+
+Phone:
+773-658-6988
+
+Email:
+info@crewlandscapes.com
+
+Business context:
+Chicago landscaping and design-build services.
+
+Use the original published content for accurate service details.
+
+### Image rules
+
+Prioritize genuine Crew Landscapes photography from:
+- Existing homepage.
+- Existing projects gallery.
+- Existing design images.
+- Existing construction progress images.
+- Official social media where accessible.
+
+Use real project photographs wherever possible.
+
+If original photography cannot be retrieved, use premium representative stock imagery.
+
+Never present stock photography as completed Crew Landscapes projects.
+
+Do not invent:
+- Testimonials.
+- Awards.
+- Certifications.
+- Employee numbers.
+- Completed project statistics.
+- Project names.
+- Client identities.
+- Prices.
+- Guarantees.
+- Business history beyond verified information.
+
+The existing published Colleen testimonial may be reused accurately with its original attribution.
+
+---
+
+# 14. FINAL QUALITY ASSURANCE
+
+Before completing the project, test the following.
+
+HOMEPAGE:
+
+[ ] Original deep-teal and pale blue-gray identity preserved.
+
+[ ] Original CREW logo retained.
+
+[ ] Bold Sora and DM Sans typography implemented.
+
+[ ] Premium cinematic hero.
+
+[ ] Stronger homepage introduction.
+
+[ ] Visual-first About section.
+
+[ ] Detailed service descriptions.
+
+[ ] Immersive project gallery.
+
+[ ] Gallery CTAs lead to inquiry form.
+
+[ ] Genuine testimonial only.
+
+[ ] Visual process section.
+
+[ ] Short inquiry form.
+
+[ ] Premium footer.
+
+SECONDARY ROUTES:
+
+[ ] All five routes exist.
+
+[ ] Every secondary route contains ONLY the InoDo promotional screen.
+
+[ ] Same promotional message on every route.
+
+[ ] HIRE INODO button links to https://inodo.net.
+
+[ ] BACK TO HOMEPAGE works.
+
+[ ] No extra Crew business content.
+
+ANIMATIONS:
+
+[ ] Smooth text reveals.
+
+[ ] Image mask transitions.
+
+[ ] Scroll-triggered animations.
+
+[ ] Navigation interactions.
+
+[ ] Button animations.
+
+[ ] Gallery lightbox transitions.
+
+[ ] Reduced-motion support.
+
+TECHNICAL:
+
+[ ] All routes work.
+
+[ ] No broken buttons.
+
+[ ] No broken images.
+
+[ ] No console errors.
+
+[ ] No horizontal overflow.
+
+[ ] Mobile responsiveness tested.
+
+[ ] SEO metadata present.
+
+[ ] Accessibility considered.
+
+[ ] Performance optimized.
+
+---
+
+# FINAL CREATIVE DIRECTION
+
+Think like an award-winning digital design agency creating a premium website for a professional landscape design and construction company.
+
+Preserve Crew Landscapes' original deep-teal, pale blue-gray, white, and charcoal identity.
+
+Use:
+- Bold typography.
+- Architectural photography.
+- Sophisticated image compositions.
+- Large editorial headings.
+- Advanced but purposeful animations.
+- Detailed service presentations.
+- A visually rich company story.
+- A conversion-focused project gallery.
+
+The finished website must be recognizable as Crew Landscapes while looking dramatically more polished and modern.
+
+The homepage must be the only fully developed business page.
+
+All secondary pages must remain single-screen InoDo promotional experiences.
+
+Do not create a generic template.
+
+Build the actual working website with complete responsive layouts, functional interactions, and professional implementation.
+
+Start with the design system, build the homepage, implement all promotional routes, and finish with full quality testing.

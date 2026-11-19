@@ -1,0 +1,6 @@
+{
+  "name": "Crew Landscapes",
+  "description": "Crew Landscapes designs and builds outdoor spaces throughout Chicago, including patios, brick paving, landscape installation, planting, lighting, and outdoor living environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

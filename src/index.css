@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Sora", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-crew-teal: #005B63;
+  --color-crew-deep: #00464D;
+  --color-crew-accent: #08717A;
+  --color-crew-bluegray: #B6C0C2;
+  --color-crew-mist: #EDF1F1;
+  --color-crew-offwhite: #F7F8F7;
+  --color-crew-charcoal: #202526;
+  --color-crew-black: #151A1B;
+  --color-crew-muted: #727D7F;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #202526;
+    background-color: #ffffff;
+    overflow-x: clip;
+  }
+
+  body {
+    overflow-x: clip;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-display {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    outline-color: #08717a;
+  }
+}
+
+/* Custom smooth architectural focus ring */
+:focus-visible {
+  outline: 2px solid #08717a;
+  outline-offset: 3px;
+}
+
+/* Tabular numbers utility for editorial indexes */
+.editorial-index {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Reduced motion safeguard */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
